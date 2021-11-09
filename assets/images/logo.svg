@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.47" height="52.89" viewBox="0 0 46.47 52.89">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #231916;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #1bafab;
+      }
+
+      .cls-3 {
+        fill: #f5c258;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Layer_2-2" data-name="Layer 2">
+        <g id="flower-3">
+          <line class="cls-1" y1="34.55" y2="34.55"/>
+          <polygon class="cls-2" points="23.17 11.52 23.17 52.89 19.37 50.67 19.37 13.88 23.17 11.52"/>
+          <polygon class="cls-2" points="46.47 2.36 46.47 6.93 27.1 18.45 27.1 13.88 46.47 2.36"/>
+          <polygon class="cls-3" points="23.17 11.52 19.37 13.88 0 2.36 3.8 0.14 23.17 11.52"/>
+          <line class="cls-1" y1="2.36" y2="2.36"/>
+          <polygon class="cls-3" points="27.1 13.88 27.1 50.67 23.17 52.89 23.17 11.52 27.1 13.88"/>
+          <polygon class="cls-3" points="46.47 2.36 27.1 13.88 23.17 11.52 42.55 0 46.47 2.36"/>
+          <line class="cls-1" y1="2.36" y2="2.36"/>
+          <line class="cls-1" x1="23.17" y1="11.52" x2="23.17" y2="11.52"/>
+          <polygon class="cls-2" points="19.37 46.08 19.37 50.67 0 39.15 0 34.55 19.37 46.08"/>
+          <polygon class="cls-3" points="19.37 41.5 19.37 46.08 4.98 37.57 9.81 35.74 19.37 41.5"/>
+          <polygon class="cls-2" points="19.37 27.62 19.37 27.62 19.37 32.2 0 20.81 0 16.23 19.37 27.62"/>
+          <polygon class="cls-2" points="19.5 13.88 19.5 18.45 0 6.93 0 2.36 19.5 13.88"/>
+          <polyline class="cls-3" points="27.1 27.62 27.1 23.05 42.55 13.88 46.47 16.1 46.47 16.1 27.1 27.62"/>
+          <polygon class="cls-2" points="19.37 32.2 4.98 37.57 0 34.55 0 34.55 14.4 29.32 19.37 32.2"/>
+          <polygon class="cls-3" points="19.37 23.05 19.37 27.62 0 16.23 3.8 13.88 19.37 23.05"/>
+          <line class="cls-4" x1="27.1" y1="27.62" x2="46.47" y2="16.1"/>
+          <polyline class="cls-2" points="27.1 27.62 46.47 16.1 46.47 20.81 46.47 20.81 27.1 32.2"/>
+          <polygon class="cls-2" points="46.47 34.55 46.47 39.15 46.47 39.15 27.1 50.67 27.1 46.08 41.64 23.55 46.47 20.81 46.47 20.81 31.81 43.2 46.47 34.55"/>
+          <line class="cls-4" x1="33.25" y1="28.54" x2="41.64" y2="23.57"/>
+          <polyline class="cls-3" points="46.47 34.55 42.67 32.2 36.66 35.74 31.81 43.2 46.47 34.55"/>
+          <polygon class="cls-3" points="33.25 28.54 27.1 37.96 27.1 46.08 41.64 23.55 33.25 28.54"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
